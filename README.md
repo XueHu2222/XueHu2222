@@ -2,7 +2,7 @@
 
 
 I'm a Student at Hz University.
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBpd3hleHY1cWo3eGY4eXBnZWpycmZhbjNwNnFsOWp3ZjB6N3k2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" alt="rat" height="50"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p0aDFvZGNlZzgxMTU4ZmY0YThsb3ZjcDdlN2l6NDQweG5nNXFwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/32dafjpUDR5Pa/giphy.gif" alt="mouse" height="50"/>
 
 ---
 
