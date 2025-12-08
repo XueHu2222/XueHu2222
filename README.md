@@ -51,10 +51,6 @@ Svelte                   1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/XueHu2222/XueHu2222/main/assets/bar_graph.png)
-
-
- Last Updated on 08/12/2025 12:16:42 UTC
+ Last Updated on 08/12/2025 12:23:10 UTC
 <!--END_SECTION:waka-->
