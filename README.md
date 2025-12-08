@@ -26,6 +26,8 @@ I'm a Student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%206%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -43,21 +45,21 @@ I'm a Student at Hz University.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-🌆 Daytime                729 commits         ██████████████░░░░░░░░░░░   54.44 % 
-🌃 Evening                422 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
+🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌆 Daytime                730 commits         ██████████████░░░░░░░░░░░   54.48 % 
+🌃 Evening                422 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
 🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Wednesday                282 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Monday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Wednesday                282 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
 Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Friday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Saturday                 277 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Friday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Saturday                 277 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 ```
 
 
@@ -96,5 +98,5 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XueHu2222/XueHu2222/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 11:55:14 UTC
+ Last Updated on 08/12/2025 11:58:02 UTC
 <!--END_SECTION:waka-->
