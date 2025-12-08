@@ -22,5 +22,5 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
-          DEBUG_LOGGING: "False"
+          SHOW_LOC_CHART: "False"
           
