@@ -30,11 +30,13 @@ I'm a Student at Hz University.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.5%20million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 54.0 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2025
+> 🏆 83 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,27 +44,6 @@ I'm a Student at Hz University.
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-🌆 Daytime                730 commits         ██████████████░░░░░░░░░░░   54.48 % 
-🌃 Evening                422 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Tuesday                  150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Wednesday                282 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Friday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Saturday                 277 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Sunday                   148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -70,15 +51,6 @@ Sunday                   148 commits         ███░░░░░░░░�
 
 💬 Programming Languages: 
 Python                   21 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-otter                    21 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -98,5 +70,5 @@ Svelte                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/XueHu2222/XueHu2222/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 11:58:02 UTC
+ Last Updated on 08/12/2025 12:11:03 UTC
 <!--END_SECTION:waka-->
