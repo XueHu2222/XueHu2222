@@ -29,7 +29,7 @@ I'm a Student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.3%20million%20lines%20of%20code-blue)
 
@@ -39,11 +39,11 @@ I'm a Student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   34.42 % 
-Svelte                   1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.06 % 
-JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Prisma                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JavaScript               1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   34.87 % 
+Svelte                   1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   31.84 % 
+JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Prisma                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +59,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2025 00:53:30 UTC
+ Last Updated on 13/12/2025 00:49:52 UTC
 <!--END_SECTION:waka-->
