@@ -39,11 +39,11 @@ I'm a Student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               11 hrs 34 mins      ███████████████████░░░░░░   74.44 % 
-Svelte                   1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Prisma                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+JavaScript               10 hrs 52 mins      ██████████████████████░░░   86.93 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Svelte                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +59,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2025 00:54:35 UTC
+ Last Updated on 17/12/2025 00:48:50 UTC
 <!--END_SECTION:waka-->
