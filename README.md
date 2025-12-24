@@ -29,7 +29,7 @@ I'm a Student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.2%20million%20lines%20of%20code-blue)
 
@@ -39,25 +39,25 @@ I'm a Student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Svelte                   2 hrs 18 mins       █████████████░░░░░░░░░░░░   53.11 % 
-JavaScript               1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.74 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript               3 hrs 11 mins       █████████████░░░░░░░░░░░░   52.17 % 
+Svelte                   2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Svelte                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Svelte                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 23/12/2025 00:53:34 UTC
+ Last Updated on 24/12/2025 00:53:21 UTC
 <!--END_SECTION:waka-->
