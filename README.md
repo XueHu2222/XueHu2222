@@ -29,7 +29,7 @@ I'm a Student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.25%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,10 +39,11 @@ I'm a Student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Prisma                   1 hr 24 mins        ████████████░░░░░░░░░░░░░   49.29 % 
-Svelte                   1 hr 20 mins        ████████████░░░░░░░░░░░░░   46.89 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Svelte                   31 mins             ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+TypeScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Docker                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -58,5 +59,5 @@ Svelte                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2026 00:59:10 UTC
+ Last Updated on 20/01/2026 00:54:38 UTC
 <!--END_SECTION:waka-->
