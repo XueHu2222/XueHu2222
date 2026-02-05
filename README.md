@@ -39,11 +39,11 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Svelte                   2 hrs 33 mins       ████████████░░░░░░░░░░░░░   49.74 % 
-TypeScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Python                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python                   46 mins             ██████████████████░░░░░░░   73.99 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Git Config               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+PowerShell               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+CSV                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +59,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2026 01:02:55 UTC
+ Last Updated on 05/02/2026 01:04:28 UTC
 <!--END_SECTION:waka-->
