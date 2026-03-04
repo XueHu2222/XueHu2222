@@ -29,7 +29,7 @@ I'm a second-year student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,8 +39,9 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        █████████████████████████   99.69 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Python                   1 hr 34 mins        ████████████████████████░   97.93 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -56,5 +57,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2026 01:08:02 UTC
+ Last Updated on 04/03/2026 01:03:59 UTC
 <!--END_SECTION:waka-->
