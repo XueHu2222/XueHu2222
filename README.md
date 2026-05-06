@@ -29,7 +29,7 @@ I'm a second-year student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.34%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,21 +39,22 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   54 mins             ██████████████████████░░░   86.87 % 
+CSV                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+PHP                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 05/05/2026 01:46:51 UTC
+ Last Updated on 06/05/2026 01:31:34 UTC
 <!--END_SECTION:waka-->
