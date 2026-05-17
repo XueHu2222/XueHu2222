@@ -39,8 +39,7 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   3 mins              ██████████████████████░░░   86.99 % 
-CSV                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -56,5 +55,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2026 01:52:03 UTC
+ Last Updated on 17/05/2026 01:54:53 UTC
 <!--END_SECTION:waka-->
