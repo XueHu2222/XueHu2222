@@ -29,6 +29,8 @@ I'm a second-year student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%201%20min-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.34%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -57,5 +59,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 02:02:17 UTC
+ Last Updated on 25/05/2026 02:10:03 UTC
 <!--END_SECTION:waka-->
