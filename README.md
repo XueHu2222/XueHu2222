@@ -41,33 +41,33 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 31 mins             ███████████████████░░░░░░   74.52 % 
-TypeScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Java                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Delphi                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Delphi                   1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   32.42 % 
+TypeScript               1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Java                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (63.59%)
+⏱ AI Coding Time: 1 hr 39 mins (42.61%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 21 lines written by hand (0.0% AI-written)
 
-🔤 133,492 Input Tokens, 3,241 Output Tokens
+🔤 313,190 Input Tokens, 7,110 Output Tokens
 
-💵 $0.45 Estimated AI Cost This Week
+💵 $1.05 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 57 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 47 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,5 +83,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 05:29:46 UTC
+ Last Updated on 28/08/2026 07:25:47 UTC
 <!--END_SECTION:waka-->
