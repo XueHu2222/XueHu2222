@@ -31,8 +31,6 @@ I'm a second-year student at Hz University.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2022%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.32%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -48,28 +46,6 @@ ObjectPascal             44 mins             ██░░░░░░░░░�
 Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 22 mins (22.71%)
-
-✍️ 0 lines written by AI, 1,282 lines written by hand (0.0% AI-written)
-
-🔤 313,190 Input Tokens, 7,110 Output Tokens
-
-💵 $1.05 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 15 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -83,5 +59,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 13:37:21 UTC
+ Last Updated on 01/09/2026 13:39:17 UTC
 <!--END_SECTION:waka-->
