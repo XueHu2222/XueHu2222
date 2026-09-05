@@ -29,7 +29,7 @@ I'm a second-year student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,11 +39,11 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               7 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.17 % 
-Java                     4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Delphi                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-ObjectPascal             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+TypeScript               8 hrs 7 mins        ██████████████░░░░░░░░░░░   54.25 % 
+Java                     4 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Delphi                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+ObjectPascal             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+ANTLR                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +59,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 01:45:33 UTC
+ Last Updated on 05/09/2026 01:46:10 UTC
 <!--END_SECTION:waka-->
