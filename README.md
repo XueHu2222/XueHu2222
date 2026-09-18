@@ -29,9 +29,9 @@ I'm a second-year student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.33%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,25 +39,25 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               7 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.30 % 
-Java                     3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Delphi                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+TypeScript               6 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.09 % 
+Markdown                 3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Java                     2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Delphi                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 17/09/2026 02:09:29 UTC
+ Last Updated on 18/09/2026 01:56:26 UTC
 <!--END_SECTION:waka-->
