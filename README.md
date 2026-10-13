@@ -39,11 +39,11 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               12 hrs 28 mins      ████████████████░░░░░░░░░   62.64 % 
-C#                       4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+C#                       8 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.59 % 
+TypeScript               7 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   39.09 % 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +59,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 03:02:09 UTC
+ Last Updated on 13/10/2026 04:17:19 UTC
 <!--END_SECTION:waka-->
