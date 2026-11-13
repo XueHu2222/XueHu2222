@@ -29,9 +29,7 @@ I'm a second-year student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2036%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.20%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,19 +37,19 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               8 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
-C#                       5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-Python                   3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Delphi                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+C#                       4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.22 % 
+Markdown                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+TypeScript               1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Git Config               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Text                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
 Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 JavaScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
@@ -59,5 +57,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 04:00:17 UTC
+ Last Updated on 13/11/2026 03:54:51 UTC
 <!--END_SECTION:waka-->
