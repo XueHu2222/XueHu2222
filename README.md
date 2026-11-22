@@ -29,7 +29,7 @@ I'm a second-year student at Hz University.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.20%20million%20lines%20of%20code-blue?style=flat)
 
@@ -39,11 +39,11 @@ I'm a second-year student at Hz University.
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-C#                       11 hrs 50 mins      ███████████░░░░░░░░░░░░░░   45.95 % 
-Markdown                 7 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Other                    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-XML                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Python                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+C#                       14 hrs 12 mins      █████████████░░░░░░░░░░░░   52.22 % 
+Markdown                 8 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+XML                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -59,5 +59,5 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 04:36:37 UTC
+ Last Updated on 22/11/2026 03:51:16 UTC
 <!--END_SECTION:waka-->
